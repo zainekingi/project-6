@@ -1,2 +1,2 @@
-# project-6
-Zaine Kingi's SVG Site Update project files for Treehouse Project 6.
+# SVG Image
+Experimenting with the different methods of using SVG images - inline and embedded.
